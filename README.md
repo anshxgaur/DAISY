@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="cool.jpg" alt="DAISY – Data Analysis & Intelligence System" width="900"/>
+  <img src="cool.png" alt="DAISY – Data Analysis & Intelligence System" width="900"/>
 </p>
 
 # DAISY – Data Analysis & Intelligence System
