@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="cool.png" alt="DAISY – Data Analysis & Intelligence System" width="900"/>
+</p>
+
+# DAISY – Data Analysis & Intelligence System
+
+## Overview
+DAISY (Data Analysis & Intelligence System) is an end-to-end data science project designed to analyze large real-world datasets and extract meanin
+
 # 🌼 DAISY – Data Analysis & Intelligence System
 ## 📌 Overview
 **DAISY (Data Analysis & Intelligence System)** is an end-to-end data science project designed to analyze large real-world datasets and extract meaningful insights that support strategic decision-making and identify future growth opportunities.
