@@ -19,7 +19,7 @@ This project focuses on transforming raw data into **actionable intelligence** u
 - Analyze large-scale datasets sourced from Kaggle
 - Identify hidden patterns, trends, and anomalies
 - Generate meaningful insights for decision-making
-- Forecast future trends and potential growth areas
+- Forecast future trends and potential growth area
 - Provide data-driven recommendations using analytical logic
 
 ---
