@@ -11,7 +11,7 @@ DAISY (Data Analysis & Intelligence System) is an end-to-end data science projec
 ## 📌 Overview
 **DAISY (Data Analysis & Intelligence System)** is an end-to-end data science project designed to analyze large real-world datasets and extract meaningful insights that support strategic decision-making and identify future growth opportunities.
 
-This project focuses on transforming raw data into **actionable intelligence** using statistical analysis, exploratory data analysis, and machine learning techniques.
+This project focuses on transforming raw data into **actionable intelligence** using statistical analysis, exploratory data analysis, and machine learning technique.
 
 ---
 
