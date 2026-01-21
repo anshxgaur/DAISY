@@ -15,7 +15,7 @@ This project focuses on transforming raw data into **actionable intelligence** u
 
 ---
 
-## 🎯 Project Objectives
+## 🎯 Project Objective
 - Analyze large-scale datasets sourced from Kaggle
 - Identify hidden patterns, trends, and anomalies
 - Generate meaningful insights for decision-making
